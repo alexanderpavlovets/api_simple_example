@@ -8,3 +8,4 @@
 
 ### TODO: 
 - delete duration time printing out. It is not needed.
+- refactor structure of "data" folder - currently is not extendable

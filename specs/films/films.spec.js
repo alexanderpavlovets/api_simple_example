@@ -2,7 +2,7 @@ const {it} = require('../../lib/utils')
 const {SwapiAPI} = require('../../lib/app')
 const {expect} = require('chai')
 
-describe('Films', function(){
+describe.skip('Films', function(){
   const swapiApiClient = new SwapiAPI()
 
   it('first film test', async function() {
