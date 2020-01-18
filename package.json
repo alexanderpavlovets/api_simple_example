@@ -1,0 +1,25 @@
+{
+  "name": "m_a_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderpavlovets/m_a_task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderpavlovets/m_a_task/issues"
+  },
+  "homepage": "https://github.com/alexanderpavlovets/m_a_task#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
