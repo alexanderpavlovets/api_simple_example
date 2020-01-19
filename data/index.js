@@ -1,5 +1,9 @@
-const {peopleEndpointResponseKeys} = require('./respose.models')
+const {
+  peopleEndpointResponseKeys,
+  filmsEndpointResponseKeys
+} = require('./respose.models') 
 
 module.exports = {
-  peopleEndpointResponseKeys
+  peopleEndpointResponseKeys,
+  filmsEndpointResponseKeys
 }

@@ -21,6 +21,27 @@ const peopleEndpointResponseKeys = {
   ]
 }
 
+const filmsEndpointResponseKeys = {
+  root: ['count', 'next', 'previous', 'results'],
+  separateFilm: [
+    'title',
+    'episode_id',
+    'opening_crawl',
+    'director',
+    'producer',
+    'release_date',
+    'characters',
+    'planets',
+    'starships',
+    'vehicles',
+    'species',
+    'created',
+    'edited',
+    'url'
+  ]
+}
+
 module.exports = {
-  peopleEndpointResponseKeys
+  peopleEndpointResponseKeys,
+  filmsEndpointResponseKeys
 }

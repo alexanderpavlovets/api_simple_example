@@ -53,7 +53,7 @@ describe('Component tests for /people/ endpoint', function(){
       .to.have.all.keys(peopleEndpointResponseKeys.separatePerson)
   })
 
-  it('[P008] Search functionality should work', async function () {
+  it('[P008] Search functionality should return requested person', async function () {
     let randomPerson = null
     {
       const {body} = await swapiApiClient.getAllPeople()

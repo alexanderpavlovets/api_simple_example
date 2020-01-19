@@ -9,3 +9,5 @@
 ### TODO: 
 - delete duration time printing out. It is not needed.
 - refactor structure of "data" folder - currently is not extendable
+- add JSON Schema response validation
+- add dockerFile in order to share this repo without possible env. issues
