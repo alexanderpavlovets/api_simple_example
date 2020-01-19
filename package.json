@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexanderpavlovets/m_a_task.git"
+    "url": "git+https://github.com/alexanderpavlovets/api_simple_example.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alexanderpavlovets/m_a_task/issues"
+    "url": "https://github.com/alexanderpavlovets/api_simple_example/issues"
   },
-  "homepage": "https://github.com/alexanderpavlovets/m_a_task#readme",
+  "homepage": "https://github.com/alexanderpavlovets/api_simple_example#readme",
   "dependencies": {
     "chai": "^4.2.0",
     "chance": "^1.1.4",
